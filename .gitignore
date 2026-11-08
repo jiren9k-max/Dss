@@ -1,0 +1,13 @@
+# Local tooling / backups
+.claude/
+_old-draft/
+.vercel/
+node_modules/
+
+# Unused images (kept locally only)
+public/detailing-hero.png
+public/dss-hero-suv.png
+public/dss-hero.png
+public/headlight-detail.png
+public/interior-detail.png
+public/stock/headlight-polish.jpg
