@@ -274,9 +274,6 @@ em { font-family: var(--serif); font-style: italic; font-weight: 500; letter-spa
 .footer-ig { width: 46px; height: 46px; display: grid; place-items: center; border: 1px solid var(--line-dark); border-radius: 50%; transition: border-color .25s, color .25s, background .25s; }
 .footer-ig:hover { border-color: var(--green); background: var(--green); color: var(--black); }
 .footer-ig svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; }
-.footer-fb { width: 46px; height: 46px; display: grid; place-items: center; border: 1px solid var(--line-dark); border-radius: 50%; transition: border-color .25s, color .25s, background .25s; }
-.footer-fb:hover { border-color: var(--green); background: var(--green); color: var(--black); }
-.footer-fb svg { width: 20px; height: 20px; fill: currentColor; }
 .footer-olx { width: 46px; height: 46px; display: grid; place-items: center; border: 1px solid var(--line-dark); border-radius: 50%; font: 800 13px var(--display); letter-spacing: -.04em; color: var(--green-light); transition: border-color .25s, color .25s, background .25s; }
 .footer-olx:hover { border-color: var(--green); background: var(--green); color: var(--black); }
 .footer-bottom { display: flex; justify-content: space-between; padding-top: 26px; font-size: 13px; color: var(--gray-light); }
